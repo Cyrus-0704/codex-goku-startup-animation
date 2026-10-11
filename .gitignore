@@ -1,0 +1,12 @@
+local-state/
+session.json
+session.json.tmp
+*.log
+*.lnk
+*.mp4
+*.mkv
+*.ico
+*.jpg
+*.png
+*.zip
+node_modules/
